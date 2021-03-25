@@ -1,4 +1,4 @@
-# copy_paste_aug_detectron2
+# Copy-Paste augmentation in Detectron2
 
 
 Copy-paste aug implementation was taken from this awesome [repository](https://github.com/conradry/copy-paste-aug). Original paper is [Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation](https://arxiv.org/abs/2012.07177v1)
